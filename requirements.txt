@@ -1,0 +1,8 @@
+antropy==0.1.4
+fooof==1.0.0
+matplotlib==3.6.0
+mne==1.1.1
+numpy==1.23.3
+pandas==1.5.0
+scikit_learn==1.1.3
+utils==1.0.1
