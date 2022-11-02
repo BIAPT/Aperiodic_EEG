@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import matplotlib.backends.backend_pdf as pltpdf
-from electrode_list import electrode_list
+from utils.electrode_list import electrode_list
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
